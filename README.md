@@ -1,4 +1,4 @@
-# ❇Algorithm Practice Repository for New Grad CS Students❇️
+# ❇Algorithm Repository❇️
 
 Welcome to the Algorithm Practice Repository! This repo is designed to help new grad Computer Science students prepare for technical interviews by providing a collection of algorithm problems.
 
