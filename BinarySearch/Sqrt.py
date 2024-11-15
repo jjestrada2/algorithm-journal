@@ -29,7 +29,7 @@ solution = Solution()
 
 # Test cases
 print(solution.mySqrt(4))  # Expected output: 2, because 2 * 2 = 4
-print(solution.mySqrt(8))  # Expected output: 2, because 2 * 2 = 4 < 8 and 3 * 3 = 9 > 8
+print(solution.mySqrt(9))  # Expected output: 2, because 2 * 2 = 4 < 8 and 3 * 3 = 9 > 8
 print(solution.mySqrt(16)) # Expected output: 4, because 4 * 4 = 16
 print(solution.mySqrt(1))  # Expected output: 1, because 1 * 1 = 1
 print(solution.mySqrt(0))  # Expected output: 0, because 0 * 0 = 0
